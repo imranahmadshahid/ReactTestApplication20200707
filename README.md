@@ -1,6 +1,6 @@
 # React Application
 
-You can preview this application by going on https://github.com/imranbutt/ReactTestApplication20200707 link
+You can preview this application by going on https://imranbutt.github.io/ReactTestApplication20200707/ link
 
 In this application, I used following JS libraries and frameworks:
 1) React
