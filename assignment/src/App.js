@@ -47,7 +47,7 @@ export class App extends React.Component{
 		else{
 			return (
 				<div className="App">
-					<h1>Assignent</h1>
+					<h1>Assignment</h1>
 					<Project data={this.state.data}/>
 				</div>
 			);
